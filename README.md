@@ -1,12 +1,12 @@
-GROUP NAME: For The Win
+# GROUP NAME: For The Win
 
 
-Jin Zou 		  /5 
+##### Jin Zou 		  5/5 
 
-Yitong Zhao		/5
+##### Yitong Zhao		5/5
 
-Marvin Zhang	/5
+##### Marvin Zhang	5/5
 
-Mengke Zhao	  /5
+##### Mengke Zhao	  0/5
 
-Rui Guo		    /5
+##### Rui Guo		    1/5
