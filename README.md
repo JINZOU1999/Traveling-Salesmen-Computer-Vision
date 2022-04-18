@@ -9,4 +9,4 @@
 
 ##### Mengke Zhao	  0/5
 
-##### Rui Guo		    1/5
+##### Rui Guo		    0/5
